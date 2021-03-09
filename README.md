@@ -1,3 +1,4 @@
+<img src="https://github.com/ArvinthKumar2502/ArvinthKumar2502/blob/main/ajvnasjvnh12e3u2i.gif"/>
 <h1 align="center">Hi 👋, I'm Arvinth Kumar.S</h1>
 
 
