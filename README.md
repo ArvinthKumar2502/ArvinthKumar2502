@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arvinthkumar2502&label=Profile%20views&color=0e75b6&style=flat" alt="arvinthkumar2502" /> </p>
 
-<p align="center"><img src="https://github.com/ArvinthKumar2502/ArvinthKumar2502/blob/main/ajvnasjvnh12e3u2i.gif"/></p>
+<p align="center"><img src="https://github.com/ArvinthKumar2502/ArvinthKumar2502/blob/main/Hello,%20I%20am%20Arvinth%20Kumar%20S..%20Nice%20to%20meet%20you..png?raw=true"/></p>
 <h1 align="center">Hi 👋, I'm Arvinth Kumar.S</h1>
 
 
