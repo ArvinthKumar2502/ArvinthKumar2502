@@ -1,8 +1,9 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arvinthkumar2502&label=Profile%20views&color=0e75b6&style=flat" alt="arvinthkumar2502" /> </p>
+
 <p align="center"><img src="https://github.com/ArvinthKumar2502/ArvinthKumar2502/blob/main/ajvnasjvnh12e3u2i.gif"/></p>
 <h1 align="center">Hi 👋, I'm Arvinth Kumar.S</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinthkumar2502&label=Profile%20views&color=0e75b6&style=flat" alt="arvinthkumar2502" /> </p>
 
 <!--- 🔭 I’m currently working on **WPF**-->
 
