@@ -7,9 +7,9 @@
 
 <!--- 🔭 I’m currently working on **WPF**-->
 
-- 🌱 I’m currently learning **dotnet**
+### - 🌱 I’m currently learning **dotnet**
 
-- 📫 How to reach me **arvinthkumar.s@gmail.com**
+### - 📫 Reach me at  **arvinthkumar.s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
