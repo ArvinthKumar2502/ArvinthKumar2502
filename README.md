@@ -11,8 +11,7 @@
 
 ### -  Reach me at  **arvinthkumar.s@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
 
 
 
