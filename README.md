@@ -10,7 +10,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/687px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="45" height="45"/> </a> 
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://i0.wp.com/dailydotnettips.com/wp-content/uploads/2021/05/Azure-Logo.png?w=900&ssl=1" alt="Azure" width="45" height="45"/> </a> 
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> </a> 
