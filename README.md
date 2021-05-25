@@ -9,9 +9,8 @@
 ### -  Reach me at  **arvinthkumar.s@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-bik6AotfT0M%2FX4R87hMVaqI%2FAAAAAAAAPws%2FJmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ%2Fw1200-h630-p-k-no-nu%2FAndroidStudio_logo.png&f=1&nofb=1" alt="android" width="40" height="40"/> </a> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" alt="android" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   
