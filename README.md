@@ -4,7 +4,7 @@
 <p align="right"> <a href="https://linkedin.com/in/arvinth-kumar-250200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arvinth-kumar-250200" height="30" width="40" /></a> </p>
 
 
-### -  I’m currently learning dotnet
+### -  I’m currently learning **MERN**
 
 ### -  Reach me at  **arvinthkumar.s@gmail.com**
 
@@ -22,6 +22,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="45"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node" width="45" height="45"/> </a> 
 
   
 <br>
