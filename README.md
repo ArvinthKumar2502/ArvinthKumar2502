@@ -22,7 +22,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="45"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node" width="45" height="45"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node" width="50" height="50"/> </a> 
 
   
 <br>
